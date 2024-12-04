@@ -1,5 +1,6 @@
 
-# Hate Speech Detection using Machine Learning
+# TWEET ANALYZER
+
 
 This project aims to build a machine learning model to classify whether a given text contains hate speech or not. The model is trained using `Logistic Regression` and `CountVectorizer` for text vectorization. The trained model and vectorizer are saved as pickle files, which can be loaded later to make predictions on new, unseen text inputs.
 
